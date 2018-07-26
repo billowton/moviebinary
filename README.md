@@ -1,7 +1,7 @@
 # moviebinary
 视频二进制化
 
-#tips:
+# tips:
 需要OpenCV FFmpeg 库
 
 
