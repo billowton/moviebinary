@@ -106,14 +106,15 @@ int final_num = 0;
 string randStr;
 int subW = 8;
 int mainW = 1080;
-string zm_path = "/Users/xxxx/Desktop/moviebinary/zm/";
-string outMovieBaseName = "/Users/xxxx/Desktop/moviebinary/movie_out/";
+string zm_path = "/Users/xxxx/Desktop/moviebinary/zm/"; //数字图片目录
+string outMovieBaseName = "/Users/xxxx/Desktop/moviebinary/movie_out/"; //视频输出目录
+string video_name = "/Users/xxxx/Desktop/moviebinary/movie/1.mp4"; //源视频路径
 
 
 int main(int arc, char **argv)
 {
 
-    string video_name = "/Users/xiangju/xxxx/moviebinary/movie/10.mp4";
+    
 
 
 
